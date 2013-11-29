@@ -1,0 +1,46 @@
+{
+  "name": "rexpress",
+  "version": "1.0.0",
+  "description": "A Node.js Express based server with Socket.io support.  It is based on requirejs.",
+  "keywords": [
+    "requirejs",
+    "express",
+    "socket.io",
+    "server",
+    "REST"
+  ],
+  "homepage": "https://github.com/chrisfelix82/rexpress",
+  "bugs": "https://github.com/chrisfelix82/rexpress/issues",
+  "author": {
+    "name": "Chris Felix",
+    "email": "chrisfelix82@gmail.com",
+    "url": "https://github.com/chrisfelix82"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisfelix82/rexpress.git"
+  },
+  "dependencies": {
+    "express": "~3.3.8",
+    "socket.io": "~0.9.16",
+    "mongoose": "~3.6.18",
+    "requirejs": "~2.1.9"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/dojo/dojo/blob/master/LICENSE#L13"
+    },
+    {
+      "type": "AFLv2.1",
+      "url": "https://github.com/dojo/dojo/blob/master/LICENSE#L43"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
