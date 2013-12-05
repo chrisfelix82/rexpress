@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b3752fb-48b3-4234-a2a0-81d007ce84c8" name="Default" comment="" />
+    <list default="true" id="3b3752fb-48b3-4234-a2a0-81d007ce84c8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="rexpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +30,7 @@
       <file leaf-file-name="server.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="7" selection-start="588" selection-end="589" vertical-scroll-proportion="0.69284064" vertical-offset="0" max-vertical-offset="433">
+            <state line="22" column="3" selection-start="595" selection-end="595" vertical-scroll-proportion="0.76566124" vertical-offset="0" max-vertical-offset="431">
               <folding />
             </state>
           </provider>
@@ -39,27 +43,35 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/backend/rest/Message.js" />
         <option value="$PROJECT_DIR$/backend/server.js" />
-        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/frontend/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/bower.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="114" />
-    <option name="y" value="22" />
+    <option name="x" value="-160" />
+    <option name="y" value="-1044" />
     <option name="width" value="1400" />
     <option name="height" value="806" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -85,6 +97,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -105,7 +118,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,14 +129,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -135,15 +139,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -182,26 +194,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="22" width="1400" height="806" extended-state="0" />
-    <editor active="true" />
+    <frame x="-160" y="-1044" width="1400" height="806" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32994187" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3309038" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981844" sideWeight="0.67005813" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981844" sideWeight="0.66909623" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -216,93 +228,80 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backend/global.js">
+    <entry file="file://$PROJECT_DIR$/backend/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+        <state line="22" column="3" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="420">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/rest/Resources.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/rest/Message.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
-          <folding />
-        </state>
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/rest/User.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="529" selection-end="529" vertical-scroll-proportion="0.31051344" vertical-offset="158" max-vertical-offset="780">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shared/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="28" selection-start="363" selection-end="363" vertical-scroll-proportion="0.38106236" vertical-offset="0" max-vertical-offset="433">
-          <folding />
-        </state>
+        <state line="11" column="28" selection-start="363" selection-end="363" vertical-scroll-proportion="0.38106236" vertical-offset="0" max-vertical-offset="433" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="26" selection-start="28" selection-end="28" vertical-scroll-proportion="0.034642033" vertical-offset="0" max-vertical-offset="433">
-          <folding />
-        </state>
+        <state line="1" column="26" selection-start="28" selection-end="28" vertical-scroll-proportion="0.034642033" vertical-offset="0" max-vertical-offset="433" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.33007336" vertical-offset="0" max-vertical-offset="409">
+        <state line="9" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.33007336" vertical-offset="0" max-vertical-offset="409" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="9" selection-start="22" selection-end="22" vertical-scroll-proportion="0.034642033" vertical-offset="0" max-vertical-offset="433" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="529" selection-end="529" vertical-scroll-proportion="0.66339064" vertical-offset="15" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="54" selection-start="295" selection-end="295" vertical-scroll-proportion="0.2567237" vertical-offset="0" max-vertical-offset="409">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="9" selection-start="22" selection-end="22" vertical-scroll-proportion="0.034642033" vertical-offset="0" max-vertical-offset="433">
+        <state line="1" column="13" selection-start="15" selection-end="15" vertical-scroll-proportion="0.03685504" vertical-offset="0" max-vertical-offset="407">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="588" selection-end="589" vertical-scroll-proportion="0.69284064" vertical-offset="0" max-vertical-offset="433">
+        <state line="22" column="3" selection-start="595" selection-end="595" vertical-scroll-proportion="0.76566124" vertical-offset="0" max-vertical-offset="431">
           <folding />
         </state>
       </provider>

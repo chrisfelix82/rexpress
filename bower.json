@@ -1,5 +1,5 @@
 {
-  "name": "DojoExpress",
+  "name": "rexpress",
   "version": "1.0.0",
   "dependencies": {
         "dojo": "git://github.com/dojo/dojo.git#1.9.1",
